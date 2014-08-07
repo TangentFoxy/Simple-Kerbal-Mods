@@ -1,0 +1,1 @@
+The flag comes from Reddit user SlowCPU (which is why I put it in a different GameData folder from my own). I asked for permission to use it and never got a reply. I will remove this if they demand it.
