@@ -1,0 +1,21 @@
+{
+	"NAME": "Kerbal Insurance Agency",
+	"URL": "https://raw.githubusercontent.com/Guard13007/KerbalStuff/master/Kerbal%20Insurance%20Agency/GameData/Guard13007/KerbalInsuranceAgency.version",
+	"DOWNLOAD": "http://beta.kerbalstuff.com/mod/95",
+	"VERSION": {
+		"MAJOR": 1,
+		"MINOR": 1,
+		"PATCH": 1,
+		"BUILD": 0
+	},
+	"KSP_VERSION": {
+		"MAJOR": 0,
+		"MINOR": 24,
+		"PATCH": 2
+	},
+	"KSP_VERSION_MIN": {
+		"MAJOR": 0,
+		"MINOR": 24,
+		"PATCH": 0
+	}
+}
