@@ -1,0 +1,21 @@
+{
+	"NAME": "Guard13007 Empire Agency",
+	"URL": "https://raw.githubusercontent.com/Guard13007/KerbalStuff/master/Guard13007%20Empire%20Agency/GameData/Guard13007EmpireAgency.version",
+	"DOWNLOAD": "http://beta.kerbalstuff.com/mod/68",
+	"VERSION": {
+		"MAJOR": 1,
+		"MINOR": 1,
+		"PATCH": 2,
+		"BUILD": 0
+	},
+	"KSP_VERSION": {
+		"MAJOR": 0,
+		"MINOR": 24,
+		"PATCH": 2
+	},
+	"KSP_VERSION_MIN": {
+		"MAJOR": 0,
+		"MINOR": 24,
+		"PATCH": 0
+	}
+}

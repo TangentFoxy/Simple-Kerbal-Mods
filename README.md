@@ -10,6 +10,6 @@ two agencies and a flag.
 I release these at [KerbalStuff](http://beta.kerbalstuff.com/), however you can
 also find zip files in the stuff here, which are the same thing.
 
-The exception to this rule is for the Flag zip file, that is only here, because
-it's just a flag and doesn't deserve a place at KerbalStuff. Also I'm probably
-the only one wanting to use it anyhow.
+The exception to this rule is for the Guard13007 Empire Flag zip file, that is
+only here, because it's just a flag and doesn't deserve a place at KerbalStuff.
+Also I'm probably the only one wanting to use it anyhow.
