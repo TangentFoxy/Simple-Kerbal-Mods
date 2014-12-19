@@ -1,3 +1,7 @@
+## 1.1.4
+
+Updated .version for 0.90.
+
 ## 1.1.3
 
 Fixed error with .version file, update checks should work now.

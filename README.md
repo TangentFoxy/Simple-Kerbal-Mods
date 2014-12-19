@@ -7,7 +7,7 @@ two agencies and a flag.
 
 #### Where download release?
 
-I release these at [KerbalStuff](http://beta.kerbalstuff.com/), however you can
+I release these at [KerbalStuff](http://kerbalstuff.com/profile/Guard13007), however you can
 also find zip files in the stuff here, which are the same thing.
 
 The exception to this rule is for the Guard13007 Empire Flag zip file, that is
