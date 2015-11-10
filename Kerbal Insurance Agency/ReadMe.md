@@ -1,6 +1,8 @@
 This mod adds a simple agency representing an insurance company.
 
-The Kerbal Insurance Agency was formed before Kerbals realized that going into space was very dangerous. Due to legal issues, the company still exists, despite having tried to go backrupt several times.
+The Kerbal Insurance Agency was formed before it was determined that going into
+space is very dangerous. Due to legal issues, the company still exists, despite
+having tried to go backrupt several times.
 
 Based on a flag created by Reddit user SlowCPU.
 
