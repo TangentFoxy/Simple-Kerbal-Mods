@@ -3,6 +3,10 @@
 This is a small collection of minor mods that I have either created or adapted
 or done something to and released.
 
+This repo is hosted at https://gitea.tangentfox.com/tangent/Simple-Kerbal-Mods and force-pushed to GitHub when commits are made.
+
+Feel free to submit pull requests or whatever, but know that I would have to manage them over there.
+
 ## Downloads
 
 I release these at [KerbalStuff](http://kerbalstuff.com/profile/Guard13007),
